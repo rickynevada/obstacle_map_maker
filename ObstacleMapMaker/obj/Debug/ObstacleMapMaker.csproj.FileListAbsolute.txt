@@ -1,0 +1,159 @@
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe.config
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.pdb
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.AssemblyReference.cache
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.MainForm.resources
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.Properties.Resources.resources
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.GenerateResource.cache
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.CoreCompileInputs.cache
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.exe
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.pdb
+C:\Users\SuperJuanita\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.GenForm.resources
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe.config
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.pdb
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.AssemblyReference.cache
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.MainForm.resources
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.GenForm.resources
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.Properties.Resources.resources
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.GenerateResource.cache
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\libSkiaSharp.dylib
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\x64\libSkiaSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm\libSkiaSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Base.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Controls.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.DesignerSupport.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Desktop.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Dialogs.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.FreeDesktop.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Markup.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Markup.Xaml.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Metal.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.MicroCom.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Native.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.OpenGL.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Remote.Protocol.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Skia.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Vulkan.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Win32.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.X11.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\MicroCom.Runtime.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\SkiaSharp.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Buffers.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Memory.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Threading.Channels.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Tmds.DBus.Protocol.dll
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Base.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Controls.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.DesignerSupport.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Desktop.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Dialogs.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.FreeDesktop.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Markup.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Markup.Xaml.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Metal.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.MicroCom.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Native.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.OpenGL.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Remote.Protocol.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Skia.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Vulkan.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.Win32.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Avalonia.X11.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\SkiaSharp.pdb
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\SkiaSharp.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Buffers.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Memory.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Threading.Channels.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\Avalonia\Resources.Inputs.cache
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\Avalonia\resources
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\Avalonia\ObstacleMapMaker.exe
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\Avalonia\ObstacleMapMaker.pdb
+C:\Users\matt\Documents\software_dev\cm_obstacle_map_maker\ObstacleMapMaker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.CopyComplete
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\libSkiaSharp.dylib
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\x64\libSkiaSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm\libSkiaSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe.config
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.exe
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\ObstacleMapMaker.pdb
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\MicroCom.Runtime.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\SkiaSharp.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Buffers.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Memory.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Threading.Channels.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\Tmds.DBus.Protocol.dll
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\HarfBuzzSharp.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\SkiaSharp.pdb
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\SkiaSharp.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Buffers.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Memory.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Threading.Channels.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.AssemblyReference.cache
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\Avalonia\Resources.Inputs.cache
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.MainForm.resources
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.GenForm.resources
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.Properties.Resources.resources
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.GenerateResource.cache
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.csproj.CopyComplete
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\Avalonia\resources
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\ObstacleMapMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\Avalonia\ObstacleMapMaker.exe
+C:\Users\matt\Documents\MSU\3 - GitManaged\obstacle_map_maker\ObstacleMapMaker\obj\Debug\Avalonia\ObstacleMapMaker.pdb
